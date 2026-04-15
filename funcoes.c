@@ -62,7 +62,7 @@ void questao05(float a, float b){
     if (media < 7) {
         printf("Aluno reprovado!");
     }
-    else if (media > 7) {
+    else if (media >=  7) {
         if (media == 10) {
             printf("Aluno aprovado com distinção!");
         } else {
