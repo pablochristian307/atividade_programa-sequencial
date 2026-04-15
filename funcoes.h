@@ -1,0 +1,14 @@
+void questao01(int a, int b);
+void questao02(int a);
+void questao03(char a);
+void questao04(char a);
+void questao05(float a, float b);
+void questao06(int a, int b, int c);
+void questao07(int a, int b, int c);
+void questao08(float p1, float p2, float p3);
+void questao09(int a, int b, int c);
+void questao10(char turno);
+void questao11(float salario_atual);
+void questao12(float valor_hora, float horas_trabalhadas);
+void questao13(int dia);
+void questao14(float n1, float n2);
